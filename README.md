@@ -3,4 +3,5 @@
 **ACS 545 Cryptography and Network Security Spring 2023 Lab Submissions**
 
 1. Lab 1 - VirtualBox and SEED Ubuntu 20.04 VM Setup &check;
-1. Lab 2 - Packet Sniffing and Spoofing Lab &check;
+2. Lab 2 - Packet Sniffing and Spoofing Lab &check;
+3. Lab 3 - ARP Cache Poisoning Lab &check;
