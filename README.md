@@ -5,3 +5,4 @@
 1. Lab 1 - VirtualBox and SEED Ubuntu 20.04 VM Setup &check;
 2. Lab 2 - Packet Sniffing and Spoofing Lab &check;
 3. Lab 3 - ARP Cache Poisoning Lab &check;
+4. Lab 4 - TCP Attacks Lab &check;
