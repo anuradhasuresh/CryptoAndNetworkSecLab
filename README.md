@@ -7,3 +7,4 @@
 3. Lab 3 - ARP Cache Poisoning Lab &check;
 4. Lab 4 - TCP Attacks Lab &check;
 5. Lab 5 - Firewall Exploration Lab &check;
+6. Lab 6 - VPN Tunneling Lab &check;
