@@ -8,3 +8,4 @@
 4. Lab 4 - TCP Attacks Lab &check;
 5. Lab 5 - Firewall Exploration Lab &check;
 6. Lab 6 - VPN Tunneling Lab &check;
+7. Lab 7 - Local DNS Attack Lab &check;
