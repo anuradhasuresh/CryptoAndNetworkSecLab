@@ -9,3 +9,4 @@
 5. Lab 5 - Firewall Exploration Lab &check;
 6. Lab 6 - VPN Tunneling Lab &check;
 7. Lab 7 - Local DNS Attack Lab &check;
+8. Lab 8 - Secret-Key Encryption Lab &check;
