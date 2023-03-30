@@ -10,3 +10,4 @@
 6. Lab 6 - VPN Tunneling Lab &check;
 7. Lab 7 - Local DNS Attack Lab &check;
 8. Lab 8 - Secret-Key Encryption Lab &check;
+9. Lab 9 - MD5 Collision Attack Lab &check;
